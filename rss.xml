@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Visual Arts]]></title>
         <description><![CDATA[Visual Arts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/visual-arts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 18:28:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Mar 2016 18:32:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/visual-arts/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Visual Arts]]></title>
             <description><![CDATA[<article><h1>Visual Arts</h1><p>Blah blah</p></article>]]></description>
-            <link>undefined99d08465-d2df-4b85-a3d7-e9208f2413e3/index.html</link>
+            <link>https://thegrid.ai/visual-arts/99d08465-d2df-4b85-a3d7-e9208f2413e3/index.html</link>
             <guid isPermaLink="false">99d08465-d2df-4b85-a3d7-e9208f2413e3</guid>
-            <pubDate>Sat, 19 Mar 2016 18:28:42 GMT</pubDate>
+            <pubDate>Sat, 19 Mar 2016 18:31:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
