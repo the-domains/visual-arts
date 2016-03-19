@@ -1,7 +1,7 @@
 name: Visual Arts
 favicon: null
-layout_spectrum: 0.8147475940641016
-typography_spectrum: 0.8550543822348118
+layout_spectrum: 0.41706
+typography_spectrum: 0.15369
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.6224638009443879
+  brandStrength: 0.625
   lightness: 0.04086960223503411
   saturation: 0.9318150831386447
   rhythmicContrast: 0.5179822999052703
