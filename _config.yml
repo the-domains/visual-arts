@@ -1,0 +1,28 @@
+name: Visual Arts
+favicon: null
+layout_spectrum: 0.8147475940641016
+typography_spectrum: 0.8550543822348118
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6224638009443879
+  lightness: 0.04086960223503411
+  saturation: 0.9318150831386447
+  rhythmicContrast: 0.5179822999052703
+purpose: []
